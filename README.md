@@ -13,6 +13,25 @@ Fornecer ao cliente do provedor as funcionalidades disponíveis no sistema de ge
 - Realizar Promessa de Pagamento :white_check_mark:
 - Baixar Faturas e 2ª via de Boleto :white_check_mark:
 
+## Tecnologias
+- API
+- Flutter
+- Flutter Modular
+- Slidy
+
+## Packages Utilizados
+
+- Dio
+- Mobx
+- Flutter Shimmer
+- Lottie
+- Hive
+- Path Provider
+- Webview Flutter
+- Badges
+- Flutter Downloader
+
+
 ## Telas
 
 
@@ -20,5 +39,5 @@ Fornecer ao cliente do provedor as funcionalidades disponíveis no sistema de ge
 
 ## Credits
 
-Developer By [Matheus Figueirêdo](https://www.linkedin.com/in/matheus-figueirêdo-2b1611150/)
+Developer with ❤️ by [Matheus Figueirêdo](https://www.linkedin.com/in/matheus-figueirêdo-2b1611150/)
 
