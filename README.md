@@ -35,10 +35,10 @@ Fornecer ao cliente do provedor as funcionalidades disponíveis no sistema de ge
 ## Telas
 
 #### Login Page
-<img src="app_screenshots/login.jpeg" height="400">
+<img src="app_screenshots/login.jpeg" height="500">
 
 #### Home Page
-<img src="app_screenshots/home.jpeg" height="400">
+<img src="app_screenshots/home.jpeg" height="500">
 
 
 ## Credits
