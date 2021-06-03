@@ -17,12 +17,13 @@ Fornecer ao cliente do provedor as funcionalidades disponíveis no sistema de ge
 - API
 - Flutter
 - Flutter Modular
+- Mobx
 - Slidy
 
 ## Packages Utilizados
 
 - Dio
-- Mobx
+- Flutter Mobx
 - Flutter Shimmer
 - Lottie
 - Hive
@@ -30,6 +31,7 @@ Fornecer ao cliente do provedor as funcionalidades disponíveis no sistema de ge
 - Webview Flutter
 - Badges
 - Flutter Downloader
+- Custom Navigator Bar
 
 
 ## Telas
