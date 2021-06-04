@@ -1,5 +1,5 @@
 # Aplicativo Para Provedores de Internet
-  *O código base do aplicativo está em um projeto privado por motivos de segurança.*
+  *O código fonte do aplicativo está em um projeto privado por motivos de segurança.*
 
 ## Objetivo
 
