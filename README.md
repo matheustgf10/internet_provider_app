@@ -44,5 +44,5 @@ Fornecer ao cliente do provedor as funcionalidades disponíveis no sistema de ge
 
 ## Credits
 
-Developer with ❤️ by [Matheus Figueirêdo](https://www.linkedin.com/in/matheus-figueirêdo-2b1611150/)
+Developed with ❤️ by [Matheus Figueirêdo](https://www.linkedin.com/in/matheus-figueirêdo-2b1611150/)
 
